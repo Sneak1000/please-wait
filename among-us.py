@@ -2,5 +2,5 @@
 
 import time
 print("please wait")
-time.sleep(3600)
+time.sleep(3599)
 print("please try again")
